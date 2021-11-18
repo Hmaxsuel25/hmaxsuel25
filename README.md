@@ -2,7 +2,7 @@
 
 
 - 🔭 Aprendendo Python/Java. Analista de Suporte Senior.
-- 🌱 Estudando Java | Python
+- 🌱 Estudando Java | Python | Crossplane
 - 📫 Contate-me com o email: hmaxsuel25@gmail.com
 - 😄 Pronomes: ele/dele
 - 🤝 Analista de Suporte/Infraestrutura
