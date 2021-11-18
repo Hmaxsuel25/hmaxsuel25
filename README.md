@@ -5,6 +5,8 @@
 - 🌱 Estudando Java | Python
 - 📫 Contate-me com o email: hmaxsuel25@gmail.com
 - 😄 Pronomes: ele/dele
+- 🤝 Analista de Suporte/Infraestrutura
+
 
 <div align="center">
   <a href="https://github.com/hmaxsuel25">
