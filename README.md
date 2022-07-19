@@ -36,8 +36,9 @@
   <img align="center" alt="Humberto-tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
   <img align="center" alt="Humberto-terraform" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">
    <img align="center" alt="Humberto-c" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
+   <img align="center" alt="Humberto-grafana" height="30" width="40" src="https://raw.githubusercontent.com/Hmaxsuel25/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg">
+   <img align="center" alt="Humberto-zabbix" height="30" width="40" src="https://raw.githubusercontent.com/Hmaxsuel25/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg">
   </div>
-  
   
   <p>_____________________________________________________________________________________________________________________________________________</p>
   
