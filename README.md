@@ -37,7 +37,8 @@
   <img align="center" alt="Humberto-terraform" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">
    <img align="center" alt="Humberto-c" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
    <img align="center" alt="Humberto-grafana" height="30" width="40" src="https://raw.githubusercontent.com/Hmaxsuel25/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg">
-   <img align="center" alt="Humberto-zabbix" height="30" width="40" src="https://raw.githubusercontent.com/Hmaxsuel25/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg">
+   <img align="center" alt="Humberto-zabbix" height="30" width="40" src="https://miro.medium.com/max/972/1*vloEha9mTCLM_SEnXdIUIw.png">
+    <img align="center" alt="Humberto-icinga" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/icinga_logo_icon_169018.png">                                                                                                                                  
   </div>
   
   <p>_____________________________________________________________________________________________________________________________________________</p>
