@@ -5,7 +5,7 @@
 - 🌱 Estudando Java | Python | Crossplane | Kubernetes
 - 📫 Contate-me com o email: hmaxsuel25@gmail.com
 - 😄 Pronomes: ele/dele
-- 🤝 Analista de Suporte/Infraestrutura
+- 🤝 Analista de Suporte/Infraestrutura/SRE DevOps
 
 
 <div align="center">
