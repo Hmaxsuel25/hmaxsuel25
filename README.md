@@ -1,11 +1,10 @@
 <h1 align="center"> Humberto Maxsuel Machado 👋</h1>
 
-
-- 🔭 Aprendendo Python/Java e Cultura DevOps.
-- 🌱 Estudando Java | Python | Crossplane | Kubernetes
+- 🤝 Analista SRE DevOps Pleno
+- 🔭 Aprendendo Um monte de coisa ao mesmo tempo
 - 📫 Contate-me com o email: hmaxsuel25@gmail.com
 - 😄 Pronomes: ele/dele
-- 🤝 Analista de Suporte/Infraestrutura/SRE DevOps
+
 
 
 <div align="center">
@@ -20,8 +19,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Humberto-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Humberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Humberto-Python" height="30" width="40" src="https://cncf-branding.netlify.app/img/projects/crossplane/icon/color/crossplane-icon-color.png">
-  <img align="center" alt="Humberto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"">
+  <img align="center" alt="Humberto-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"">
   </div>
   
    <h4><i>Conhecimentos:</i></h4> 
