@@ -34,8 +34,8 @@ Organizei minhas competências conforme minha atuação profissional e projetos 
 #### 📡 Observabilidade & Monitoramento
 *(Minha especialidade principal)*
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elk,unreal" alt="Observabilidade" />
-  <img align="center" alt="Humberto-zabbix" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zabbix_logo_square.svg/1024px-Zabbix_logo_square.svg.png">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,zabbix" alt="Observabilidade" />
+  
 </div>
 
 #### ☁️ Cloud, Infraestrutura & Containers
@@ -53,6 +53,6 @@ Organizei minhas competências conforme minha atuação profissional e projetos 
 ### ⚡ Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hmaxsuel25&show_icons=true&theme=noctis&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hmaxsuel25&layout=compact&langs_count=7&theme=noctis"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmaxsuel25&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmaxsuel25&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
